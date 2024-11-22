@@ -40,9 +40,10 @@
     <h2>Support:</h2>
     <p>If you have any questions or need help with this project, feel free to reach out to me on social media:</p>
     <ul>
-        <li><a href="" target="_blank">Instagram</a></li>
-        <li><a href="https://github.com/your-username" target="_blank"></a></li>
-        <li><a href="" target="_blank">LinkedIn</a></li>
+        <li><a href="https://www.instagram.com/thedesigningdev/" target="_blank">Instagram</a></li>
+        <li><a href="https://www.facebook.com/profile.php?id=61566937723822&mibextid=ZbWKwL" target="_blank">Facebook</a></li>
+        <li><a href="https://www.youtube.com/channel/UCQg-0_vH44_CeMt218508VQ" target="_blank"></a>Youtube</li>
+        <li><a href="https://www.linkedin.com/in/rubabmubashar-profile/" target="_blank">LinkedIn</a></li>
     </ul>
     <h2>License:</h2>
     <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.</p>
