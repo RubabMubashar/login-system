@@ -45,6 +45,5 @@
         <li><a href="https://www.youtube.com/channel/UCQg-0_vH44_CeMt218508VQ" target="_blank"></a>Youtube</li>
         <li><a href="https://www.linkedin.com/in/rubabmubashar-profile/" target="_blank">LinkedIn</a></li>
     </ul>
-    <h2>License:</h2>
-    <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.</p>
+    <br><br>
     <p style="text-align: center;">Thank you for checking out this project! 💻</p>
