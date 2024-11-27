@@ -2,7 +2,7 @@
 session_start();
 session_unset(); 
 session_destroy(); 
-header("Location: register.php?message=loggedout");
+header("Location: index.php?message=loggedout");
 exit;
 ?>
 
