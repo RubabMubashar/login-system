@@ -46,7 +46,7 @@
     </form>
     <p class="text-center text-sm text-gray-600 mt-4">
       Don’t have an account? 
-      <a href="register.php" class="text-blue-500 hover:underline">Sign up</a>
+      <a href="index.php" class="text-blue-500 hover:underline">Sign up</a>
     </p>
   </div>
 
