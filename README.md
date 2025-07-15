@@ -42,7 +42,7 @@
     <ul>
         <li><a href="https://www.instagram.com/thedesigningdev/" target="_blank">Instagram</a></li>
         <li><a href="https://www.facebook.com/profile.php?id=61566937723822&mibextid=ZbWKwL" target="_blank">Facebook</a></li>
-        <li><a href="https://www.youtube.com/channel/UCQg-0_vH44_CeMt218508VQ" target="_blank"></a>Youtube</li>
+        <li><a href="https://www.youtube.com/TheDesigningDev" target="_blank"></a>Youtube</li>
         <li><a href="https://www.linkedin.com/in/rubabmubashar-profile/" target="_blank">LinkedIn</a></li>
     </ul>
     <br><br>
